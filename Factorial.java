@@ -16,7 +16,8 @@ public class Factorial {
 		
 		
 		System.out.println(factorial);
-		
+		System.out.println("factorial understood");
+		System.out.println("Git understood");
 	
 		
 		
