@@ -12,13 +12,8 @@ public class Factorial {
 		for(int i = n ; i >= 1 ; i--) {
 			factorial = factorial * i;
 		}
-		
-		
-		
-		System.out.println(factorial);
-		System.out.println("factorial understood");
-		System.out.println("Git understood");
 		System.out.println("git understood");
+		System.out.println("new change in b1 branch");
 	
 		
 		
